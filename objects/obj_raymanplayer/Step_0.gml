@@ -2,7 +2,7 @@ rayman_collide()
 xdir = keyboard_check(vk_right) - keyboard_check(vk_left)
 if xdir != 0
 	image_xscale = xdir
-if keyboard_check_pressed(vk_up)
+if keyboard_check_pressed(vk_up) && grounded
 	vsp = -15
 if keyboard_check(vk_down) {
 	if sprite_index == spr_raymanidle 

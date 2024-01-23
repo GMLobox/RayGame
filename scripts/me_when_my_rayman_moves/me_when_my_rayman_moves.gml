@@ -15,5 +15,11 @@ function rayman_collide(){
 			y += sign(vsp)
 		vsp = 0
 	}
+	if place_meeting(x, y + vsp, obj_solidrect) || place_meeting(x, y + 1, obj_solidrect) {
+		grounded = 1
+	}
+	else
+		grounded = false;
+		
 	y += vsp;
 }
