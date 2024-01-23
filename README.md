@@ -1,11 +1,5 @@
 # RayGame
-i have no idea where this project is going...
-except like
-
-# Rayman
-<h2>Raving</h2>
-<h3>Rabbids</h3>
-GBA fangame
-
-
-that's it
+Hi, welcome to this little project of mine! Glad you're interested.
+This little GMS2 Fangame is going to be based off of these two SNES Rayman screenshots, specifically those being the multiplayer ones.
+I hope we can do it! I believe in you!
+🥰
