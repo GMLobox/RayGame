@@ -23,10 +23,15 @@
   "ResourceOrderSettings": [
     {"name":"spr_raymanduckIN","order":1,"path":"sprites/spr_raymanduckIN/spr_raymanduckIN.yy",},
     {"name":"spr_raymanduckID","order":2,"path":"sprites/spr_raymanduckID/spr_raymanduckID.yy",},
+    {"name":"tile_solids","order":3,"path":"sprites/tile_solids/tile_solids.yy",},
+    {"name":"tileset_damnfuckingsquare","order":1,"path":"tilesets/tileset_damnfuckingsquare/tileset_damnfuckingsquare.yy",},
+    {"name":"triangl","order":5,"path":"sprites/triangl/triangl.yy",},
     {"name":"obj_camara","order":2,"path":"objects/obj_camara/obj_camara.yy",},
+    {"name":"triangle","order":2,"path":"tilesets/triangle/triangle.yy",},
     {"name":"inputs","order":1,"path":"scripts/inputs/inputs.yy",},
     {"name":"spr_solidrect","order":1,"path":"sprites/spr_solidrect/spr_solidrect.yy",},
     {"name":"spr_giantassrabbid_dead","order":2,"path":"sprites/spr_giantassrabbid_dead/spr_giantassrabbid_dead.yy",},
+    {"name":"square","order":4,"path":"sprites/square/square.yy",},
     {"name":"spr_giantassrabbid_walk","order":1,"path":"sprites/spr_giantassrabbid_walk/spr_giantassrabbid_walk.yy",},
   ],
 }

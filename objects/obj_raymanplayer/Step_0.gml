@@ -1,4 +1,5 @@
-rayman_collide()
+rayman_collide_object()
+rayman_collide_tile()
 xdir = keyboard_check(vk_right) - keyboard_check(vk_left)
 if xdir != 0
 	image_xscale = xdir
