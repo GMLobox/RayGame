@@ -19,11 +19,15 @@
     {"name":"Rayman","order":1,"path":"folders/Sprites/Placeholders/Rayman.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"Rayman Parts","order":2,"path":"folders/Sprites/Rayman Parts.yy",},
+    {"name":"initial","order":1,"path":"folders/Sprites/Rayman Parts/initial.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_raymanduckIN","order":1,"path":"sprites/spr_raymanduckIN/spr_raymanduckIN.yy",},
+    {"name":"spr_raypart_head1","order":3,"path":"sprites/spr_raypart_head1/spr_raypart_head1.yy",},
     {"name":"spr_raymanduckID","order":2,"path":"sprites/spr_raymanduckID/spr_raymanduckID.yy",},
     {"name":"tile_solids","order":3,"path":"sprites/tile_solids/tile_solids.yy",},
+    {"name":"spr_raypart_foot1","order":1,"path":"sprites/spr_raypart_foot1/spr_raypart_foot1.yy",},
     {"name":"tileset_damnfuckingsquare","order":1,"path":"tilesets/tileset_damnfuckingsquare/tileset_damnfuckingsquare.yy",},
     {"name":"triangl","order":5,"path":"sprites/triangl/triangl.yy",},
     {"name":"obj_camara","order":2,"path":"objects/obj_camara/obj_camara.yy",},
@@ -32,6 +36,7 @@
     {"name":"spr_solidrect","order":1,"path":"sprites/spr_solidrect/spr_solidrect.yy",},
     {"name":"spr_giantassrabbid_dead","order":2,"path":"sprites/spr_giantassrabbid_dead/spr_giantassrabbid_dead.yy",},
     {"name":"square","order":4,"path":"sprites/square/square.yy",},
+    {"name":"spr_raypart_hand1","order":2,"path":"sprites/spr_raypart_hand1/spr_raypart_hand1.yy",},
     {"name":"spr_giantassrabbid_walk","order":1,"path":"sprites/spr_giantassrabbid_walk/spr_giantassrabbid_walk.yy",},
   ],
 }

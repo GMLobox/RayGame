@@ -1,5 +1,5 @@
-rayman_collide_object()
-rayman_collide_tile()
+rayman_collide_object() // REQUIRED to run first
+rayman_collide_tile() // also required
 xdir = keyboard_check(vk_right) - keyboard_check(vk_left)
 if xdir != 0
 	image_xscale = xdir
